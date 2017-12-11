@@ -1,0 +1,9 @@
+c:\users\evan\documents\visual studio 2015\Projects\Dodger\Dodger\bin\Debug\Dodger.exe.config
+c:\users\evan\documents\visual studio 2015\Projects\Dodger\Dodger\bin\Debug\Dodger.exe
+c:\users\evan\documents\visual studio 2015\Projects\Dodger\Dodger\bin\Debug\Dodger.pdb
+c:\users\evan\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.csprojResolveAssemblyReference.cache
+c:\users\evan\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.Form1.resources
+c:\users\evan\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.Properties.Resources.resources
+c:\users\evan\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.csproj.GenerateResource.Cache
+c:\users\evan\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.exe
+c:\users\evan\documents\visual studio 2015\Projects\Dodger\Dodger\obj\Debug\Dodger.pdb
